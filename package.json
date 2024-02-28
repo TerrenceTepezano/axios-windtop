@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios-low-encapsulation": "^1.0.1",
+    "commander": "^12.0.0"
+  },
+  "name": "axios-windtop",
+  "version": "1.0.0",
+  "description": "axios request",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "",
+  "license": "ISC"
+}
